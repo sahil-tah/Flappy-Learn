@@ -1,4 +1,4 @@
-# Flappy-Learn
+# Flappy Learn
 ## Neuroevolution of Flappy Bird game
 
 [Play here](https://sahil-tah.github.io/Flappy-Learn/)
