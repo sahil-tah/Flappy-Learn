@@ -16,11 +16,13 @@
 
 * **P5.js**
 * **Particle.js**
+<hr noshade>
 
 ### Explanation
 This Project uses neural-network & genetic algorithm for bird's brain. Input of the neural network consists of Bird's y-position, Bird's y-velocity, closest distance to the pipe x-distance, upper pipe's y-dist and bottom pipe's y-distance. The output will be 2 probabilty scores, if the score from the desired node is greater then jump else don't.
 
 ![nn](assets/nn2.png)
+<hr noshade>
 
 ### References
 * **The Coding Train** [NN](https://github.com/CodingTrain/Toy-Neural-Network-JS)
