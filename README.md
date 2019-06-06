@@ -9,7 +9,7 @@
 
 <p align="center">
   <sub>Created by <a href="https://github.com/Sahil-Tah"><strong>Sahil Tah</strong></a> , <a href="https://github.com/jayu3773
-    "><strong>Jayesh Shelar</strong></a> & <strong>Tigmanshu Kumar</strong>
+    "><strong>Jayesh Shelar</strong></a> & <a href="https://github.com/TestSubject004"><strong>Tigmanshu Kumar</strong></a>
 </p>
 <hr noshade>
 
