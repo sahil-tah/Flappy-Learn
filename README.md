@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <sub>Created by <a href="https://github.com/Sahil-Tah"><strong>Sahil Tah</strong></a>
+  <sub>Created by <a href="https://github.com/Sahil-Tah"><strong>Sahil Tah</strong></a> & <a href="https://github.com/jayu3773
+"><strong>Jayesh Shelar</strong></a>
 </p>
 <hr noshade>
 
