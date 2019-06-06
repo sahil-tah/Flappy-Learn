@@ -1,4 +1,4 @@
-# Flappy Learn
+# Flappy Learn 🐣
 ## Neuroevolution of Flappy Bird game
 
 [Play here](http://bit.ly/flappy_learn)
