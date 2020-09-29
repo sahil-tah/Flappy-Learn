@@ -1,7 +1,7 @@
 # Flappy Learn 🐣
 ## Neuroevolution of Flappy Bird game
 
-[Play here](http://bit.ly/flappy_learn)
+[Play here](https://sahil-tah.github.io/Flappy-Learn/)
 
 <p align="center">
   <img src="assets/game.png" height="350">
